@@ -42,7 +42,7 @@ AlphaServe 是一个高吞吐推理系统。
 """ * 120
     return text + "\n问题：请用三句话总结这个系统的请求处理路径。"
 
-def make_short_prmopt():
+def make_short_prompt():
     return "请用一句话解释 vLLM 为什么适合高并发推理。"
 
 
