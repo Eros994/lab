@@ -1,7 +1,7 @@
 {
   "python.languageServer": "Pylance",
   "python.analysis.extraPaths": [
-    "${workspaceFolder}/lab/code/third_party/vllm-main"
+    "./lab/third_party/vllm-main"
   ],
   "python.analysis.useLibraryCodeForTypes": true,
   "python.analysis.indexing": true
