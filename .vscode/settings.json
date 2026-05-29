@@ -4,5 +4,7 @@
     "./lab/third_party/vllm-main"
   ],
   "python.analysis.useLibraryCodeForTypes": true,
-  "python.analysis.indexing": true
+  "python.analysis.indexing": true,
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
